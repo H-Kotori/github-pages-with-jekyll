@@ -1,4 +1,7 @@
-Shortcut Note: Click this link to automatically complete steps 1-4.
+---
+title: "Some Tricks"
+date: 2021-02-07
+---
 
 On the "Code" tab, select your H-Kotori-patch-1 branch.
 
